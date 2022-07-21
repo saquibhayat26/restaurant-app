@@ -1,6 +1,6 @@
 import React from "react";
-import logo from "./img/logo.png";
-import userAvatar from "./img/avatar.png";
+import logo from "./../img/logo.png";
+import userAvatar from "./../img/avatar.png";
 import { MdShoppingBasket } from "react-icons/md";
 
 function Header() {
